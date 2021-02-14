@@ -1,4 +1,4 @@
-- 👋 Hey, I'm Karolina
+- 👋 Hey, I'm Karolina.
 - 👀 I’m interested in programming, languages, good literature.
 - 🌱 I’m currently learning Python.
 - 💞️ I’m looking to collaborate on all things Python that will allow me to up my skills!
